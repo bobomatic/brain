@@ -1,5 +1,5 @@
 # brain
-Tensorflow based Image recognition tool. Compares ability of facebook, google and other image recognition algorithms to recognise a jpg or png image.
+Tensorflow based Image recognition tool using machine learning. Compares ability of facebook, google and other image recognition algorithms to recognise a jpg or png image.
 
 ## Table of contents
 * [General info](#general-info)
