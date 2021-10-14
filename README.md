@@ -19,12 +19,12 @@ This project is created with
 XXXXXX
 
 ## Setup
-To run this project install it locally using npm:
+To run this project install it locally using git clone.
 
 ```
 $ cd ../lorem
-$ npm install
-$ npm start
+$ git clone <paste address of repository>
+$ pip install -r requirements.txt
 ```
 
 ## Features
